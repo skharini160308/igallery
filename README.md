@@ -124,12 +124,11 @@ button {
 
 
 ## OUTPUT:
-<img width="784" height="602" alt="Screenshot 2025-12-25 141430" src="https://github.com/user-attachments/assets/8072889e-559d-4d2e-94d6-496f0ad2e00e" />
-<img width="743" height="586" alt="Screenshot 2025-12-25 141452" src="https://github.com/user-attachments/assets/b7235671-af63-49a6-a14c-88c403a5947a" />
-<img width="688" height="592" alt="Screenshot 2025-12-25 141508" src="https://github.com/user-attachments/assets/67368617-3318-4d96-9744-57dc41a1a9b0" />
-<img width="688" height="594" alt="Screenshot 2025-12-25 141520" src="https://github.com/user-attachments/assets/45c77826-c116-4dfe-93a1-f617d41bd32a" />
-<img width="703" height="586" alt="Screenshot 2025-12-25 141534" src="https://github.com/user-attachments/assets/4d8b6f57-d25b-484c-9cec-93528fb717c4" />
-
+<img width="784" height="602" alt="Screenshot 2025-12-25 141430" src="https://github.com/user-attachments/assets/0f1a38ad-64e6-48a8-bd6b-be723ce63413" />
+<img width="743" height="586" alt="Screenshot 2025-12-25 141452" src="https://github.com/user-attachments/assets/cdd3685f-30ea-41de-8178-399a18653b49" />
+<img width="688" height="592" alt="Screenshot 2025-12-25 141508" src="https://github.com/user-attachments/assets/19fcec20-fcf1-4ee7-87c5-59e26e3b95a2" />
+<img width="688" height="594" alt="Screenshot 2025-12-25 141520" src="https://github.com/user-attachments/assets/2ff86356-9073-4f32-a649-d664f2f4a679" />
+<img width="703" height="586" alt="Screenshot 2025-12-25 141534" src="https://github.com/user-attachments/assets/8d9d823b-87d3-47bd-b900-5183908116f4" />
 
 
 ## RESULT:
