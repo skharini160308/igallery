@@ -121,10 +121,16 @@ button {
     padding: 10px;
     font-size: 14px;
 }
-
+```
 
 ## OUTPUT:
-<img width="784" height="602" alt="Screenshot 2025-12-25 141430" src="https://github.com/user-attachments/assets/c348449c-00cc-4ee4-a12b-e79f878568c1" />
+<img width="784" height="602" alt="Screenshot 2025-12-25 141430" src="https://github.com/user-attachments/assets/b9bcb124-bf72-45d7-b167-bfcf20cee5eb" />
+<img width="743" height="586" alt="Screenshot 2025-12-25 141452" src="https://github.com/user-attachments/assets/7f2cdf9a-eaf5-49d6-a6d2-090b9ec89a5d" />
+<img width="688" height="592" alt="Screenshot 2025-12-25 141508" src="https://github.com/user-attachments/assets/e3e17123-b42d-4d9d-bcbe-08ad77f162b5" />
+<img width="688" height="594" alt="Screenshot 2025-12-25 141520" src="https://github.com/user-attachments/assets/157c504b-bd87-494e-a02b-404aee8a6f10" />
+<img width="703" height="586" alt="Screenshot 2025-12-25 141534" src="https://github.com/user-attachments/assets/89cd5556-ad3c-4d6a-84e6-f3e3c1b0da76" />
+
+
 
 
 ## RESULT:
